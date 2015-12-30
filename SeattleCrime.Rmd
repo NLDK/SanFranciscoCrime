@@ -2,7 +2,7 @@
 title: "Robbery in Central San Francisco"
 author: "Dan Kirlin"
 date: "December 29, 2015"
-output: html_document
+output: pdf_document
 ---
 
 In this project, we will be examining Crime in San Francisco using the `R` programming language and `ggplot2` package. Let's begin by loading the ggplot2 package, dplyr (data manipulation), and the provided data.
